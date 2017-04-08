@@ -1,0 +1,25 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "twitter bot",
+  "main": "liri.js",
+  "dependencies": {
+    "request": "^2.81.0",
+    "twitter": "^1.7.0",
+    "spotify": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rumblysam/LIRI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rumblysam/LIRI/issues"
+  },
+  "homepage": "https://github.com/rumblysam/LIRI#readme"
+}
